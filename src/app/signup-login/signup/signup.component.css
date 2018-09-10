@@ -1,0 +1,13 @@
+a{
+    padding:10px;
+}
+input{
+    height:50px;
+    font-size: 150%;
+}
+button{
+    background-color: aqua;
+}
+.signingtext{
+    font-size: 18px;
+}
